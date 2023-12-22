@@ -28,3 +28,6 @@ Contact us directly! Remember to provide details about you so that we may know m
 # 🎞Use artworks in our project:
 
 Make sure you credit us in your project, at an obvious location. For example, you may put our logo into your 3D game on the map.
+
+# Contribution Notes
+If you are contributng, read the contribution document.
