@@ -24,3 +24,7 @@ And all kinds of stuff that we may need during game development or art creation.
 
 # 👑Being one of us
 Contact us directly! Remember to provide details about you so that we may know more about you!
+
+# 🎞Use artworks in our project:
+
+Make sure you credit us in your project, at an obvious location. For example, you may put our logo into your 3D game on the map.
